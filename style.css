@@ -50,6 +50,11 @@ body {
   align-items: center;
 }
 
+.sign-up a {
+  text-decoration: none;
+  color: #333333;
+}
+
 .sign-up button {
   padding-top: 4px;
   padding-bottom: 4px;
