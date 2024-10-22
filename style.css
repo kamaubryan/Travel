@@ -10,6 +10,7 @@ body {
 }
 
 .container {
+  width: auto;
   display: flex;
   flex-direction: column;
   /* align-items: center;
@@ -18,7 +19,7 @@ body {
 
 .nav {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   /* background-color: red; */
   height: auto;
   margin-bottom: 5px;
@@ -68,7 +69,7 @@ body {
 .section-1 {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .blog {
